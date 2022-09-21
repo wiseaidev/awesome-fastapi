@@ -96,24 +96,3 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
-
-
-nav_external_links:
-  - title: Third-Party Packages
-    url: "#third-party-packages"
-    hide_icon: true
-  - title: Python Packages
-    url: "#python-packages"
-    hide_icon: true
-  - title: Resources
-    url: "#resources"
-    hide_icon: true
-  - title: Hosting
-    url: "#hosting"
-    hide_icon: true
-  - title: Projects
-    url: "#projects"
-    hide_icon: true
-  - title: FastAPI Framework
-    url: "#fastapi-framework"
-    hide_icon: true
