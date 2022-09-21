@@ -8,7 +8,7 @@
   <img width="400" src="./static/fastapi-logo.jpeg" alt="FastAPI logo">
 </div>
 
-⚠️ Note: I live in Lebanon and e-wallets such as PayPal, Stripe, Skrill, and Coinbase are not compliant with Lebanese bank accounts. This means it is completely infeasible for me to set up GitHub Sponsors, OpenCollective, or services that rely on them. Sorry, there is no way you can support me for now. For more info about the situation over here, you can refer to <a href="https://dev.to/wiseai/lebanon-the-devastating-life-59e3" target="_blank">this post</a>.
+> ⚠️ Note: I live in Lebanon and e-wallets such as PayPal, Stripe, Skrill, and Coinbase are not compliant with Lebanese bank accounts. This means it is completely infeasible for me to set up GitHub Sponsors, OpenCollective, or services that rely on them. Sorry, there is no way you can support me for now. For more info about the situation over here, you can refer to <a href="https://dev.to/wiseai/lebanon-the-devastating-life-59e3" target="_blank">this post</a>.
 
 ## Contents
 
@@ -41,13 +41,31 @@
 - [URLs](#urls)
 - [Users](#users)
 - [Views](#views)
+- [Credit](#credit)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-toc-->
 
 ## Admin
-- Todo
+
+* [:octocat: fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - :star: 1.5k+ :fork_and_knife: 200+ - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
+
+* [:octocat: sqladmin](https://github.com/aminalaee/sqladmin) - :star: 500+ :fork_and_knife: 70+ - SQLAlchemy Admin for FastAPI and Starlette. 
+
+* [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+
+* [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+
+* [:octocat: vue-element-admin-fastapi](https://github.com/heyfavour/vue-element-admin-fastapi) - :star: 160+ :fork_and_knife: 30+ - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
+
+* [:octocat: piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - :star: 160+ :fork_and_knife: 20+ - A powerful web admin for your database. 
+
+* [:octocat: gino-admin](https://github.com/xnuinside/gino-admin) - :star: 40+ :fork_and_knife: 1+ - Admin Panel for GinoORM - ready to up & run (just add your models). 
+
+* [:octocat: fastapi-admin2](https://github.com/GLEF1X/fastapi-admin2) - :star: 10+ :fork_and_knife: 1+ - Lightweight and extendable admin panel, that supports many ORM dialects. 
+
+* [:octocat: AMP](https://github.com/BazDen/AMP) - :star: 10+ :fork_and_knife: 1+ - AMP: is a fast admin dashboard template based on FastAPI.
 
 ## APIs
 - Todo
@@ -120,6 +138,10 @@
 
 ## Views
 - Todo
+
+## Credit
+
+This repo was generated from the [awesome-django](https://github.com/wsvincent/awesome-django) project.
 
 ## License
 
