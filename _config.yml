@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-seo-tag
+  - jemoji
 include:
   - README.md
 exclude:
