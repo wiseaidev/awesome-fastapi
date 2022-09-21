@@ -49,23 +49,23 @@
 
 ## Admin
 
-* [:octocat: fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - :star: 1.5k+ :fork_and_knife: 200+ - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
+- [:octocat: fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - :star: 1.5k+ :fork_and_knife: 200+ - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
 
-* [:octocat: sqladmin](https://github.com/aminalaee/sqladmin) - :star: 500+ :fork_and_knife: 70+ - SQLAlchemy Admin for FastAPI and Starlette. 
+- [:octocat: sqladmin](https://github.com/aminalaee/sqladmin) - :star: 500+ :fork_and_knife: 70+ - SQLAlchemy Admin for FastAPI and Starlette. 
 
-* [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+- [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
 
-* [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+- [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
 
-* [:octocat: vue-element-admin-fastapi](https://github.com/heyfavour/vue-element-admin-fastapi) - :star: 160+ :fork_and_knife: 30+ - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
+- [:octocat: vue-element-admin-fastapi](https://github.com/heyfavour/vue-element-admin-fastapi) - :star: 160+ :fork_and_knife: 30+ - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
 
-* [:octocat: piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - :star: 160+ :fork_and_knife: 20+ - A powerful web admin for your database. 
+- [:octocat: piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - :star: 160+ :fork_and_knife: 20+ - A powerful web admin for your database. 
 
-* [:octocat: gino-admin](https://github.com/xnuinside/gino-admin) - :star: 40+ :fork_and_knife: 1+ - Admin Panel for GinoORM - ready to up & run (just add your models). 
+- [:octocat: gino-admin](https://github.com/xnuinside/gino-admin) - :star: 40+ :fork_and_knife: 1+ - Admin Panel for GinoORM - ready to up & run (just add your models). 
 
-* [:octocat: fastapi-admin2](https://github.com/GLEF1X/fastapi-admin2) - :star: 10+ :fork_and_knife: 1+ - Lightweight and extendable admin panel, that supports many ORM dialects. 
+- [:octocat: fastapi-admin2](https://github.com/GLEF1X/fastapi-admin2) - :star: 10+ :fork_and_knife: 1+ - Lightweight and extendable admin panel, that supports many ORM dialects. 
 
-* [:octocat: AMP](https://github.com/BazDen/AMP) - :star: 10+ :fork_and_knife: 1+ - AMP: is a fast admin dashboard template based on FastAPI.
+- [:octocat: AMP](https://github.com/BazDen/AMP) - :star: 10+ :fork_and_knife: 1+ - AMP: is a fast admin dashboard template based on FastAPI.
 
 ## APIs
 - Todo
