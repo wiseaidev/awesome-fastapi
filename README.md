@@ -40,44 +40,43 @@
 - [Users](#users)
 - [Views](#views)
 - [Credit](#credit)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-toc-->
 
 ## Admin
 
-- [:octocat: fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - :star: 1.5k+ :fork_and_knife: 200+ - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
+- [:octocat: fastapi-admin :star: 1.5k+ :fork_and_knife: 200+](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
 
-- [:octocat: sqladmin](https://github.com/aminalaee/sqladmin) - :star: 500+ :fork_and_knife: 70+ - SQLAlchemy Admin for FastAPI and Starlette. 
+- [:octocat: sqladmin :star: 500+ :fork_and_knife: 70+](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette. 
+<!--lint disable double-link-->
+- [:octocat: fastapi_amis_admin :star: 300+ :fork_and_knife: 30+](https://github.com/amisadmin/fastapi_amis_admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
 
-- [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+- [:octocat: fastapi_amis_admin :star: 300+ :fork_and_knife: 30+](https://github.com/amisadmin/fastapi_amis_admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+<!--lint enable double-link-->
+- [:octocat: vue-element-admin-fastapi :star: 160+ :fork_and_knife: 30+](https://github.com/heyfavour/vue-element-admin-fastapi) - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
 
-- [:octocat: fastapi_amis_admin](https://github.com/amisadmin/fastapi_amis_admin) - :star: 300+ :fork_and_knife: 30+ - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
+- [:octocat: piccolo_admin :star: 160+ :fork_and_knife: 20+](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database. 
 
-- [:octocat: vue-element-admin-fastapi](https://github.com/heyfavour/vue-element-admin-fastapi) - :star: 160+ :fork_and_knife: 30+ - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
+- [:octocat: gino-admin :star: 40+ :fork_and_knife: 1+](https://github.com/xnuinside/gino-admin) - Admin Panel for GinoORM, ready to up & run (just add your models). 
 
-- [:octocat: piccolo_admin](https://github.com/piccolo-orm/piccolo_admin) - :star: 160+ :fork_and_knife: 20+ - A powerful web admin for your database. 
+- [:octocat: fastapi-admin2 - :star: 10+ :fork_and_knife: 1+](https://github.com/GLEF1X/fastapi-admin2) - Lightweight and extendable admin panel, that supports many ORM dialects. 
 
-- [:octocat: gino-admin](https://github.com/xnuinside/gino-admin) - :star: 40+ :fork_and_knife: 1+ - Admin Panel for GinoORM - ready to up & run (just add your models). 
-
-- [:octocat: fastapi-admin2](https://github.com/GLEF1X/fastapi-admin2) - :star: 10+ :fork_and_knife: 1+ - Lightweight and extendable admin panel, that supports many ORM dialects. 
-
-- [:octocat: AMP](https://github.com/BazDen/AMP) - :star: 10+ :fork_and_knife: 1+ - AMP: is a fast admin dashboard template based on FastAPI.
+- [:octocat: AMP :star: 10+ :fork_and_knife: 1+](https://github.com/BazDen/AMP) - AMP: is a fast admin dashboard template based on FastAPI.
 
 ## APIs
 
-- [:octocat: fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - :star: 800+ :fork_and_knife: 100+ - A dynamic FastAPI router that automatically creates CRUD routes for your models.
+- [:octocat: fastapi-crudrouter :star: 800+ :fork_and_knife: 100+](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models.
 
-- [:octocat: titiler](https://github.com/developmentseed/titiler) - :star: 300+ :fork_and_knife: 80+ - Build your own Raster dynamic map tile services.
+- [:octocat: titiler :star: 300+ :fork_and_knife: 80+](https://github.com/developmentseed/titiler) - Build your own Raster dynamic map tile services.
 
-- [:octocat: restish](https://github.com/danielgtaylor/restish) - :star: 300+ :fork_and_knife: 30+ - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
+- [:octocat: restish :star: 300+ :fork_and_knife: 30+](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
 
-- [:octocat: fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - :star: 300+ :fork_and_knife: 30+ - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
+- [:octocat: fastapi-gino-arq-uvicorn :star: 300+ :fork_and_knife: 30+](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 
-- [:octocat: fastapi-tortoise](https://github.com/prostomarkeloff/fastapi-tortoise) - :star: 90+ :fork_and_knife: 10+ - The template for building scalable web APIs based on FastAPI, Tortoise ORM and other.
+- [:octocat: fastapi-tortoise :star: 90+ :fork_and_knife: 10+](https://github.com/prostomarkeloff/fastapi-tortoise) - The template for building scalable web APIs based on FastAPI, Tortoise ORM and other.
 
-- [:octocat: freddie](https://github.com/tinkoffjournal/freddie) - :star: 50+ :fork_and_knife: 1+ - DRF-like declarative viewsets for FastAPI.
+- [:octocat: freddie :star: 50+ :fork_and_knife: 1+](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI.
 
 ## Async
 - Todo
@@ -151,8 +150,6 @@
 ## Credit
 
 This repo was generated from the [awesome-django](https://github.com/wsvincent/awesome-django) project.
-
-## License
 
 :shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
