@@ -8,8 +8,6 @@
   <img width="400" src="./static/fastapi-logo.jpeg" alt="FastAPI logo">
 </div>
 
-> ⚠️ Note: I live in Lebanon and e-wallets such as PayPal, Stripe, Skrill, and Coinbase are not compliant with Lebanese bank accounts. This means it is completely infeasible for me to set up GitHub Sponsors, OpenCollective, or services that rely on them. Sorry, there is no way you can support me for now. For more info about the situation over here, you can refer to <a href="https://dev.to/wiseai/lebanon-the-devastating-life-59e3" target="_blank">this post</a>.
-
 ## Contents
 
 <!--lint disable awesome-toc-->
@@ -68,7 +66,18 @@
 - [:octocat: AMP](https://github.com/BazDen/AMP) - :star: 10+ :fork_and_knife: 1+ - AMP: is a fast admin dashboard template based on FastAPI.
 
 ## APIs
-- Todo
+
+- [:octocat: fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - :star: 800+ :fork_and_knife: 100+ - A dynamic FastAPI router that automatically creates CRUD routes for your models.
+
+- [:octocat: titiler](https://github.com/developmentseed/titiler) - :star: 300+ :fork_and_knife: 80+ - Build your own Raster dynamic map tile services.
+
+- [:octocat: restish](https://github.com/danielgtaylor/restish) - :star: 300+ :fork_and_knife: 30+ - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
+
+- [:octocat: fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - :star: 300+ :fork_and_knife: 30+ - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
+
+- [:octocat: fastapi-tortoise](https://github.com/prostomarkeloff/fastapi-tortoise) - :star: 90+ :fork_and_knife: 10+ - The template for building scalable web APIs based on FastAPI, Tortoise ORM and other.
+
+- [:octocat: freddie](https://github.com/tinkoffjournal/freddie) - :star: 50+ :fork_and_knife: 1+ - DRF-like declarative viewsets for FastAPI.
 
 ## Async
 - Todo
@@ -145,7 +154,7 @@ This repo was generated from the [awesome-django](https://github.com/wsvincent/a
 
 ## License
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -157,3 +166,5 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+**Note**: I live in Lebanon and e-wallets such as PayPal, Stripe, Skrill, and Coinbase are not compliant with Lebanese bank accounts. This means it is completely infeasible for me to set up GitHub Sponsors, OpenCollective, or services that rely on them. Sorry, there is no way you can support me for now. For more info about the situation over here, you can refer to <a href="https://dev.to/wiseai/lebanon-the-devastating-life-59e3" target="_blank">this post</a>.
