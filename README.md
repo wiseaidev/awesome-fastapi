@@ -77,7 +77,20 @@
 - [:octocat: freddie :star: 50+ :fork_and_knife: 1+](https://github.com/tinkoffjournal/freddie) - DRF-like declarative viewsets for FastAPI.
 
 ## Async
-- Todo
+
+- [:octocat: fastapi :star: 50k+ :fork_and_knife: 4k+](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
+
+- [:octocat: starlette :star: 7k+ :fork_and_knife: 600+](https://github.com/encode/starlette) - The little ASGI framework that shines.
+
+- [:octocat: slowapi :star: 500+ :fork_and_knife: 40+](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI.
+
+- [:octocat: fastapi-events :star: 200+ :fork_and_knife: 10+](https://github.com/melvinkcx/fastapi-events) - A Asynchronous event dispatching/handling library for FastAPI and Starlette.
+
+- [:octocat: fastapi-limiter :star: 100+ :fork_and_knife: 20+](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for fastapi.
+
+- [:octocat: asgi-sitemaps :star: 10+ :fork_and_knife: 0+](https://github.com/florimondmanca/asgi-sitemaps) - Sitemap generation for Python ASGI web apps.
+
+- [:octocat: agraffe :star: 20+ :fork_and_knife: 1+](https://github.com/odd12258053/agraffe) - Agraffe, build API with ASGI in Serverless services (e.g AWS lambda, Google Cloud Functions and Azure Functions).
 
 ## Caching
 - Todo
