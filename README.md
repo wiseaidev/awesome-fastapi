@@ -49,11 +49,9 @@
 - [:octocat: fastapi-admin :star: 1.5k+ :fork_and_knife: 200+](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin. 
 
 - [:octocat: sqladmin :star: 500+ :fork_and_knife: 70+](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette. 
-<!--lint disable double-link-->
-- [:octocat: fastapi_amis_admin :star: 300+ :fork_and_knife: 30+](https://github.com/amisadmin/fastapi_amis_admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
 
-- [:octocat: fastapi_amis_admin :star: 300+ :fork_and_knife: 30+](https://github.com/amisadmin/fastapi_amis_admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin. 
-<!--lint enable double-link-->
+- [:octocat: fastapi_amis_admin :star: 300+ :fork_and_knife: 30+](https://github.com/amisadmin/fastapi_amis_admin) - FastAPI-Amis-Admin is a high-performance, efficient and easily extensible FastAPI admin framework. Inspired by django-admin, and has as many powerful functions as django-admin.
+
 - [:octocat: vue-element-admin-fastapi :star: 160+ :fork_and_knife: 30+](https://github.com/heyfavour/vue-element-admin-fastapi) - `frontend:vue-element-admin`, `backend:fastapi` and Full Stack FastAPI and PostgreSQL. 
 
 - [:octocat: piccolo_admin :star: 160+ :fork_and_knife: 20+](https://github.com/piccolo-orm/piccolo_admin) - A powerful web admin for your database. 
