@@ -68,8 +68,6 @@
 
 - [:octocat: titiler :star: 300+ :fork_and_knife: 80+](https://github.com/developmentseed/titiler) - Build your own Raster dynamic map tile services.
 
-- [:octocat: restish :star: 300+ :fork_and_knife: 30+](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
-
 - [:octocat: fastapi-gino-arq-uvicorn :star: 300+ :fork_and_knife: 30+](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 
 - [:octocat: fastapi-tortoise :star: 90+ :fork_and_knife: 10+](https://github.com/prostomarkeloff/fastapi-tortoise) - The template for building scalable web APIs based on FastAPI, Tortoise ORM and other.
@@ -105,10 +103,16 @@
 - [:octocat: cache-house :star: 10+ :fork_and_knife: 1+](https://github.com/Turall/cache-house) - Caching tool for python, working with Redis single instance and Redis cluster mode.
 
 ## Commands
-- Todo
+
+- [:octocat: manage-fastapi :star: 900+ :fork_and_knife: 60+](https://github.com/ycd/manage-fastapi) - CLI tool for FastAPI. Generating new FastAPI projects & boilerplates made easy.
+
+- [:octocat: restish :star: 300+ :fork_and_knife: 30+](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
+
+- [:octocat: pydantic-to-typescript :star: 100+ :fork_and_knife: 10+](https://github.com/phillipdupuis/pydantic-to-typescript) - CLI Tool for converting pydantic models into typescript definitions.
 
 ## Configuration
-- Todo
+
+- [:octocat: dynaconf :star: 2.7k+ :fork_and_knife: 200+](https://github.com/dynaconf/dynaconf) - Configuration Management for Python gear.
 
 ## Content Management Systems
 - Todo
