@@ -29,6 +29,7 @@
 - [General](#general)
 - [Logging](#logging)
 - [Models](#models)
+- [ORM](#orm)
 - [Performance](#performance)
 - [Search](#search)
 - [Search engine optimisation](#search-engine-optimisation)
@@ -136,10 +137,15 @@
 - Todo
 
 ## Logging
-- Todo
+- [:octocat: loguru :star: 23.1K+ :fork_and_knife: 750+](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python. Python logging made (stupidly) simple
+- logging - is the base Python packages for logging your project
 
 ## Models
 - Todo
+
+## ORM
+- [:octocat: SQLModel :star: 17K+ :fork_and_knife: 780)(https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness
+- [:octocat: SQLAlchemy :star: 10K+ :fork_and_knife: 1.5K+)(https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper
 
 ## Performance
 - Todo
