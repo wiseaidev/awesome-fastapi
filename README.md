@@ -77,7 +77,7 @@
 
 ## Async
 
-- [:octocat: fastapi :star: 50k+ :fork_and_knife: 4k+](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
+- [:octocat: FastAPI :star: 50k+ :fork_and_knife: 4k+](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
 
 - [:octocat: starlette :star: 7k+ :fork_and_knife: 600+](https://github.com/encode/starlette) - The little ASGI framework that shines.
 
@@ -93,7 +93,7 @@
 
 ## Caching
 
-- [:octocat: fastapi-cache :star: 400+ :fork_and_knife: 60+](https://github.com/long2ice/fastapi-cache) - Fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
+- [:octocat: fastapi-cache :star: 400+ :fork_and_knife: 60+](https://github.com/long2ice/fastapi-cache) - Fastapi-cache is a tool to cache FastAPI response and function result, with backends support Redis and memcached.
 
 - [:octocat: fastapi_cache :star: 100+ :fork_and_knife: 10+](https://github.com/comeuplater/fastapi_cache) - FastAPI simple cache.
 
@@ -109,7 +109,7 @@
 
 - [:octocat: restish :star: 300+ :fork_and_knife: 30+](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in.
 
-- [:octocat: pydantic-to-typescript :star: 100+ :fork_and_knife: 10+](https://github.com/phillipdupuis/pydantic-to-typescript) - CLI Tool for converting pydantic models into typescript definitions.
+- [:octocat: pydantic-to-typescript :star: 100+ :fork_and_knife: 10+](https://github.com/phillipdupuis/pydantic-to-typescript) - CLI Tool for converting pydantic models into TypeScript definitions.
 
 ## Configuration
 
@@ -137,15 +137,15 @@
 - Todo
 
 ## Logging
-- [:octocat: loguru :star: 23.1K+ :fork_and_knife: 750+](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python. Python logging made (stupidly) simple
-- logging - is the base Python packages for logging your project
+- [:octocat: loguru :star: 23.1K+ :fork_and_knife: 750+](https://github.com/Delgan/loguru) - Loguru is a library which aims to bring enjoyable logging in Python. Python logging made (stupidly) simple.
+- logging - is the base Python packages for logging your project.
 
 ## Models
 - Todo
 
 ## ORM
-- [:octocat: SQLModel :star: 17K+ :fork_and_knife: 780](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness
-- [:octocat: SQLAlchemy :star: 10K+ :fork_and_knife: 1.5K+](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper
+- [:octocat: SQLModel :star: 17K+ :fork_and_knife: 780](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [:octocat: SQLAlchemy :star: 10K+ :fork_and_knife: 1.5K+](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
 
 ## Performance
 - Todo
