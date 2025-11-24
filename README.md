@@ -144,8 +144,8 @@
 - Todo
 
 ## ORM
-- [:octocat: SQLModel :star: 17K+ :fork_and_knife: 780)(https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness
-- [:octocat: SQLAlchemy :star: 10K+ :fork_and_knife: 1.5K+)(https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper
+- [:octocat: SQLModel :star: 17K+ :fork_and_knife: 780](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness
+- [:octocat: SQLAlchemy :star: 10K+ :fork_and_knife: 1.5K+](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper
 
 ## Performance
 - Todo
